@@ -1,0 +1,4 @@
+
+Rsquid:EmptyStatementUsageCheckI"Remove this empty statement.(ŒæÅÁþÿÿÿÿ8¾ç¥îž.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öèçûøÿÿÿÿ
+csquid:S1193*"@Replace the usage of the "instanceof" operator by a catch block.(þöîæúÿÿÿÿ8¾ç¥îž.

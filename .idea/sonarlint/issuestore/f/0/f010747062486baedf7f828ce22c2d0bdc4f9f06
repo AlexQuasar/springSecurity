@@ -1,0 +1,8 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öèçûøÿÿÿÿ
+msquid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8èÅ§î.
+[squid:UselessImportCheck	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8èÅ§î.
+Zsquid:UselessImportCheck
+"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8èÅ§î.
+squid:UselessImportCheck"_Remove this unused import 'org.springframework.security.core.authority.SimpleGrantedAuthority'.(– ‹Ìûÿÿÿÿ8èÅ§î.
+Qsquid:S19052".Remove this unnecessary cast to "UserDetails".(“ãÅğùÿÿÿÿ8èÅ§î.
